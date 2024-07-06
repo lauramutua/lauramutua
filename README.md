@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, i am laura!:
 I am a finance professional with a passion for technology.<br>🔭 I’m currently working on: - Zulip Open Source Project<br><br>🏫 studied:- Diploma in Computer Science and Bachelor in Commerce<br><br>🌱 I’m currently learning: - Data Analytics<br><br>📫 How to reach me: -lauramutua001@gmail.com<br><br>👨‍💻 All of my projects are available at:- Portfolio Link<br><br>📝 I regularly write articles on:- Blog Link<br><br>📄 Know about my experiences:- Resume Link<br><br>⚡ Fun fact:- I think I am funny!
 
 
