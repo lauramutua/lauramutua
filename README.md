@@ -18,4 +18,4 @@
 
 **⚡ Fun fact:**- I think I am funny!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramutua)](https://github.com/lauramutua/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauramutua)](https://github.com/lauramutua/github-readme-stats)
