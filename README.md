@@ -2,35 +2,19 @@
 
 #### I am a finance professional with a passion for technology.
 
-**🔭 I’m currently working on:**
-- [Zulip Open Source Project](https://github.com/zulip/zulip/issues/29275)
+**🔭 I’m currently working on:** - [Zulip Open Source Project](https://github.com/zulip/zulip/issues/29275)
 
-**🏫 Education:**
-- Diploma in Computer Science
-- Bachelor in Commerce
+**🏫 studied:**- Diploma in Computer Science and Bachelor in Commerce 
 
-**🤝 I’m looking for help with:**
-- Project Name
-- [Project Link](#)
+**🌱 I’m currently learning:** - Data Analytics 
 
-**🌱 I’m currently learning:**
-- Data Analytics (Frameworks, courses, etc.)
+**📫 How to reach me:** -lauramutua001@gmail.com
 
-**💬 Ask me about:**
-- React, Vue, and GSAP
+**👨‍💻 All of my projects are available at:**- [Portfolio Link](#)
 
-**📫 How to reach me:**
-- example@gmail.com
+**📝 I regularly write articles on:**- [Blog Link](#)
 
-**👨‍💻 All of my projects are available at:**
-- [Portfolio Link](#)
+**📄 Know about my experiences:**- [Resume Link](#)
 
-**📝 I regularly write articles on:**
-- [Blog Link](#)
-
-**📄 Know about my experiences:**
-- [Resume Link](#)
-
-**⚡ Fun fact:**
-- I think I am funny!
+**⚡ Fun fact:**- I think I am funny!
 
